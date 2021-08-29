@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sketchychen
 - 👀 I’m interested in video games, narrative media, and the gays
-- 🌱 I’m currently learning what a computer is
-- 💞️ I’m looking to collaborate on game jams and stories!
+- 🌱 I’m currently learning how to download More RAM
+- 💞️ I’m looking to collaborate on games and stories!
 - 📫 Send me an email or slide into my DMs
 
 <!---
